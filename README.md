@@ -1,6 +1,6 @@
 ## Real-time Stock Price WebSocket Server
 
-This project is a WebSocket server that provides real-time stock price. Clients can subscribe to updates for specific stock symbols by connecting to the server and providing the symbol as a query parameter.
+This project is a WebSocket server that provides real-time stock price from Yahoo Finance. Clients can subscribe to updates for specific stock symbols by connecting to the server and providing the symbol as a query parameter.
 
 ## Features
 
